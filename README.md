@@ -4,6 +4,6 @@
 
 ## 作成資料集
 
-[Github](https://24-blog.github.io/)
+[GitHub](https://24-blog.github.io/)
 
 [CodePen](https://codepen.io/24blog/pens/public)
