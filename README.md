@@ -1,4 +1,4 @@
-## My side project
+## My Side Project
 
 | STATUS | URL | DESCRIPTION | 
 | :--- | :--- | :--- | 
