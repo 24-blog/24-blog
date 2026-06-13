@@ -2,6 +2,6 @@
 
 | STATUS | Git / Pen | DESCRIPTION | 
 | :--- | :--- | :--- | 
-| 公 開 | [Pages](https://24-blog.github.io/pages/)| 成果物一覧 | 
-| −−−− | [Gist](https://gist.github.com/24-blog) | 作成メモ | 
-| 公 開 | [Pen](https://codepen.io/24blog/pens/public) | RT Preview | 
+| Public | [Pages](https://24-blog.github.io/pages/)| List | 
+| −−−− | [Gist](https://gist.github.com/24-blog) | Meme | 
+| Public   | [Pen](https://codepen.io/24blog/pens/public) | RT Preview | 
