@@ -1,6 +1,6 @@
 ## My Side Project
 
-| STATUS | Git / Pen | DESCRIPTION | 
+| Status | Git / Pen | Description | 
 | :--- | :--- | :--- | 
 | Public | [Pages](https://24-blog.github.io/pages/)| List | 
 | Public | [Gist](https://gist.github.com/24-blog) | Memo | 
