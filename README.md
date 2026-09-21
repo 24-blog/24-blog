@@ -1,6 +1,6 @@
 ## My Side Project
 
-| classification | Description | 
+| Classification | Description | 
 | :--- | :--- | 
 | [Pages](https://24-blog.github.io/pages/) | All Works | 
 | [Gist](https://gist.github.com/24-blog) | Working notes |
