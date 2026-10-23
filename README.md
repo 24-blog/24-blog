@@ -1,6 +1,6 @@
 ## My Side Project
 
-| Classification | Description | 
+| Repositories | Description | 
 | :--- | :--- | 
 | [24-blog Pages](https://github.com/24-blog/pages) | All Works | 
 | [24-blog Pens](https://github.com/24-blog/codepen-archive) | Moving‥ | 
