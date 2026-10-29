@@ -7,4 +7,4 @@
 | [24-blog Gist](https://gist.github.com/24-blog) | Working notes |
 
 <a href="https://24-blog.github.io/pages/" target="_blank" rel="noopener noreferrer">
-  <img alt="My Projects" src="https://img.shields.io/badge/Creator-%231565C0.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
+  <img alt="My Projects" src="https://img.shields.io/badge/All Works-%231565C0.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
