@@ -10,4 +10,4 @@
   <img alt="My Projects" src="https://img.shields.io/badge/All Works-%231565C0.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
 
 
-$ ∂Y_t/∂τ_t < 0 $
+$ e^{i\theta} = \cos\theta + i\sin\theta $
